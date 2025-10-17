@@ -28,7 +28,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/exam-management-system.git
+git clone https://github.com/Hariharan-v006/Exam-Management-System.git
 
 
 Install required Python packages:
